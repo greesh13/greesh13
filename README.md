@@ -12,10 +12,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-# 📊 GitHub Stats:
-/*![](https://github-readme-stats.vercel.app/api?username=greesh13&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
-//![](https://github-readme-streak-stats.herokuapp.com/?user=greesh13&theme=highcontrast&hide_border=false)
-//![](https://github-readme-stats.vercel.app/api/top-langs/?username=greesh13&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)*/
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=greesh13&theme=radical&no-frame=true&no-bg=false&margin-w=4)
